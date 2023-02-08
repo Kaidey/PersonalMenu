@@ -1,0 +1,5 @@
+PersonalMenuEnv/
+
+__pycache__
+
+.env
